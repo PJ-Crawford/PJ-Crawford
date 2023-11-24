@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Privilage Escalation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Privilage Escalation]()
 
 
 <h2>🌱 What we're currently learning ...</h2>
